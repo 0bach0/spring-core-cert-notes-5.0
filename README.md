@@ -1,12 +1,8 @@
-title: Core Spring 5.0 Study Notes
-author: Bach Nguyen
-tags: []
-categories: []
-date: 2018-08-03 09:36:00
----
-This is the 
+# Core Spring 5.0 Study Notes
 
-# Container, Dependency, and IOC
+This is the answer I prepared for the question list of the Pivotal's [Certification Study Guide](https://d1fto35gcfffzn.cloudfront.net/academy/Core-Spring-5.0-Certification-Study-Guide.pdf); inspired by Vojtech Ruzicka's [Exam Notes – Pivotal Certified Spring Professional](https://www.vojtechruzicka.com/exam-notes-pivotal-certified-spring-professional/). 
+
+## Container, Dependency, and IOC
 
 ### What is dependency injection and what are the advantages?
 
